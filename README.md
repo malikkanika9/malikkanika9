@@ -1,16 +1,55 @@
-### Hi there 👋
+ Hi 👋 I am Kanika.
 
-<!--
-**malikkanika9/malikkanika9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Something Interesting.
+- 🌱 I’m currently learning MERN Stack
+- 👯 I’m looking to collaborate on Dev Projects
+- 🤔 I’m looking for help with Competitive Programming
+- 💬 Ask me about  anything, Except Maths 
+-  📫 How to reach me **Malikkanika9@gmail.com**
+- 😄 Life Hack: Learn new tech fire and share what you have learned
+- ⚡ Fun fact: I waste most of my time in exploring Social Sites.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/kanika-3a29bbb3//" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://twitter.com/kanika563452911" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+</p>
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="data:image/jpeg;base64,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"
+      alt="React" width="40" height="40" /> </a> <a href="https://html.com/" target="_blank" rel="noreferrer">
+    <img src="data:image/png;base64,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"
+      alt="JavaScript" width="40" height="40" /> </a> <a href="https://www.javascript.com/" target="_blank"
+    rel="noreferrer"> <img src="https://www.javascript.com/etc/clientlibs/pluralsight/main/images/js-logo.png"
+      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> </a> <a href="https://nodejs.org/en/"
+    target="_blank" rel="noreferrer"> <img
+      src="https://nodejs.org/static/images/logo.svg" width="40"
+      height="40" /> </a> <a href="https://www.mongodb.com/try/download/community" target="_blank" rel="noreferrer"> <img
+      src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="java" width="40"
+      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
+  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> </a></p>
+
+<br>
