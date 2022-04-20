@@ -10,16 +10,6 @@
 - ⚡ Fun fact: I waste most of my time in exploring Social Sites.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/kanika-3a29bbb3//" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://twitter.com/kanika563452911" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
-
 <br>
 <h2>languge and tools</h2>
 <h5>C ,HTML , CSS , javascript,NPM,gitbash,React</h5>
@@ -37,6 +27,18 @@
 
 </div>
 <br>
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/kanika-3a29bbb3//" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://twitter.com/kanika563452911" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+</p>
+<br>
+
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=malikkanika9&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
