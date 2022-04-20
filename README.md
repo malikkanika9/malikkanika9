@@ -11,7 +11,7 @@
 
 
 <br>
-<h2>languge and tools</h2>
+<h2>languge and Tools</h2>
 <h5>C ,HTML , CSS , javascript,NPM,gitbash,React</h5>
 <div>
 <img src="https://thumbs.dreamstime.com/b/vector-logo-letter-c-glitch-distortion-diagonal-modern-vector-logo-letter-c-c-letter-design-vector-126107818.jpg" height="90px" width="100px"/>
