@@ -21,31 +21,21 @@
 </p>
 
 <br>
+<h2>languge and tools</h2>
+<h5>C ,HTML , CSS , javascript,NPM,gitbash,React</h5>
+<div>
+<img src="https://thumbs.dreamstime.com/b/vector-logo-letter-c-glitch-distortion-diagonal-modern-vector-logo-letter-c-c-letter-design-vector-126107818.jpg" height="90px" width="100px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" height="120px" width="130px"/>
+<img src="https://i.pinimg.com/736x/4d/13/d5/4d13d55d6d0b38b7a4e85fcf97ff6279.jpg" height="100px" width="80px"/>
+  <img src="https://store-images.s-microsoft.com/image/apps.45991.14451170867457452.5130caab-3678-4c57-a404-316d66b8950e.02f1392d-5afb-4213-94a0-66877e59fce0?mode=scale&q=90&h=300&w=300" height="100px" width="80px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKX5qY-GeZwBiFFuagdnZ7ajHBVVXuMF4r8BDy3-qLuA-nk1Pm2A9z5WfdpaLBVCMQv8Y&usqp=CAU" height="100px" width="80px"/>
+    <img src="https://notifystatus.io/images/parent/npmjs.png" height="100px" width="100px"/>
+    <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" height="100px" width="100px"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png" height="100px" width="100px"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="100px" width="100px"/>
+  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.javascript.com/" target="_blank"
-    rel="noreferrer"> <img src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"
-      alt="" width="40" height="40" /> </a><a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://nodejs.org/en/"
-    target="_blank" rel="noreferrer"> <img
-      src="https://nodejs.org/static/images/logo.svg" width="40"
-      height="40" /> </a> <a href="https://www.mongodb.com/try/download/community" target="_blank" rel="noreferrer"> <img
-      src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a></p>
-
+</div>
 <br>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
