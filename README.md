@@ -1,6 +1,6 @@
  Hi 👋 I am Kanika.
 
-- 🔭 I’m currently open for a new job opportunity. <a href="https://drive.google.com/file/d/1ufqUreJqbLbR3afUbosZu0GLLd4VjkNf/view?usp=sharing">LINK TO MY RESUME</a>.
+- 🔭 I’m currently open for a new job opportunity. <a href="https://drive.google.com/file/d/1ufqUreJqbLbR3afUbosZu0GLLd4VjkNf/view?usp=sharing"> MY RESUME</a>.
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Dev Projects
 - 🤔 I’m looking for help with Competitive Programming
