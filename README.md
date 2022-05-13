@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about  anything, Except Maths 
 -  📫 How to reach me **Malikkanika9@gmail.com**
-- 😄 Life Hack: Learn new tech fire and share what you have learned
+- 😄 Life Hack: Learn new tech and share what you have learned
 - ⚡ Fun fact: I waste most of my time in exploring Social Sites.
 
 
