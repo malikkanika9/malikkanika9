@@ -9,11 +9,8 @@
 <br>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
-
 - 📫 Reach me at **malikkanika9@gmail.com**
-- 
 - 💬 Ask me about **MERN Stack**
-- 
 - 📄 Know about my experiences at <a
    href="https://drive.google.com/file/d/1ufqUreJqbLbR3afUbosZu0GLLd4VjkNf/view?usp=sharing">resume</a>
 
