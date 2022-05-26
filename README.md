@@ -1,12 +1,9 @@
  Hi 👋 I am Kanika.
 
 - 🔭 I’m currently open for a new job opportunity. <a href="https://drive.google.com/file/d/1ufqUreJqbLbR3afUbosZu0GLLd4VjkNf/view?usp=sharing"> MY RESUME</a>.
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on Dev Projects
-- 🤔 I’m looking for help with Competitive Programming
+- 🌱 Ask me about MERN stack.
 -  📫 How to reach me **Malikkanika9@gmail.com**
-- 😄 Life Hack: Learn new tech and share what you have learned
-- ⚡ Fun fact: I waste most of my time in exploring Social Sites.
+
 
 
 <br>
