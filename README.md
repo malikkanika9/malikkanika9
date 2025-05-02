@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kanika</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Senior Web Developer</h3>
 
 <br>
 
@@ -8,7 +8,7 @@
    
 <br>
 
-- 🌱Frontend Developer @ **Indus Net Technologies**
+- 🌱Frontend Developer @ **Octet Design Studio**
 - 📫 Reach me at **malikkanika9@gmail.com**
 - 💬 Ask me about **MERN Stack**
 - 📄 Know about my experiences at <a
